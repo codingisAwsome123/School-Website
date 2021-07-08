@@ -1,0 +1,73 @@
+#marqueeStyle{
+    width: 100%;
+    direction:left;
+    height:30px;
+    color: rgb(82, 82, 199);
+    font-size:120%;
+  }
+
+#school_Pic{
+    width:100%;
+    height:500px;
+    border: none;
+  }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid grey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height: 300px;
+}
+
+.travel_mainDiv hr
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+  margin-left: 20px;
+}
+
+#work
+{
+  color: rgb(255, 255, 255)
+}
+
+Button
+{
+  background-color: teal;
+}
+
+#writings
+{
+  color: rgb(255, 255, 255)
+}
+
+#princ_Pic
+{
+  width: 400px;
+}
+
+#aboutMe
+{
+  color: rgb(255, 255, 255)
+}
+
+#contact
+{
+  color: rgb(255, 255, 255)
+}
